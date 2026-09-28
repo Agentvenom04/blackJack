@@ -1,0 +1,56 @@
+h1{
+    padding: 10px 30px;
+    outline-style: dotted;
+    color: #D18579;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/055/341/544/non_2x/simple-minimalist-luxurious-intricate-mandala-frame-blank-vertical-background-in-subtle-soft-gold-and-beige-tones-vector.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color:  purple;
+}
+
+.container{ 
+    margin-top: 100px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+
+}   
+
+#message-el{
+    font-style: italic;
+}
+
+#start-button{
+    padding: 20px 70px;
+    border-radius: 9px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #B0665B;
+    color: #F0D8AD;
+}
+
+#start-button:hover{
+    background-color: #994940;
+}
+
+#draw-card{
+    padding: 10px 5px;
+    border-radius: 9px;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #B0665B;
+    color: #F0D8AD;
+}
+
+#draw-card:hover{
+    background-color: #994940;
+}
